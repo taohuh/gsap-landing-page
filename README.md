@@ -1,2 +1,2 @@
 # Create Landing page using GSAP Library
-Demo Link: https://app.netlify.com/sites/boring-montalcini-a02486
+Demo Link: https://boring-montalcini-a02486.netlify.app/
